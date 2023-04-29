@@ -2,10 +2,10 @@ whatsup code
 
 author-Rahul
 
-1)
+1)profile page code
 
-2)
+2)chat page code
 
-3)
+3)last seen code
 
-4)
+4)attaching files code
